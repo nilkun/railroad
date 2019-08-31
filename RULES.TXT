@@ -1,0 +1,10 @@
+RULES!!!
+========
+
+1. STATIONS CANNOT BE BUILD WITHIN 5 SQUARES FROM THE CLOSEST STATION.
+2. PEOPLE WANT TO TRAVEL FAR, CLOSE, OR MEDIUM (depending on jobs, income etc)
+
+
+for every station the track goes through, add to update. use Set.
+if pass through track, add all possible destinations.
+for all connections, add connections to neighbours, and so on
